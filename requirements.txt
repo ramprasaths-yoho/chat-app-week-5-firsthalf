@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+openai>=1.30
+tenacity>=8.2
+python-dotenv>=1.0
+pytest>=8.0
+httpx>=0.27
